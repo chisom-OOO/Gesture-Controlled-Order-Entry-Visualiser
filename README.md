@@ -1,5 +1,5 @@
 # Gesture-Controlled-Order-Entry-Visualiser
-# Gesture-Controlled Order Entry Visualiser
+# Gesture Controlled Order Entry Visualiser
 
 A real-time order entry system controlled by hand gestures, built with Python, OpenCV and MediaPipe.
 
@@ -28,4 +28,4 @@ python src/main.py
 The architecture mirrors a production execution system signal detection, state management, execution logging, and real-time P&L tracking are the four core components of any trading system.
 
 ## Why I built it
-Wanted to connect computer vision to quant finance — the architecture underneath is basically the same as any execution system, signal comes in, state machine decides what to do, trade gets logged, pnl gets tracked. The gesture is the fun part, the system design is the actual point.
+Wanted to connect computer vision to quant finance, the architecture underneath is basically the same as any execution system, signal comes in, state machine decides what to do, trade gets logged, pnl gets tracked. The gesture is the fun part, the system design is the actual point.
